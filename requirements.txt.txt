@@ -1,5 +1,0 @@
-flask
-pyzbar
-pdf2image
-pillow
-fitz
